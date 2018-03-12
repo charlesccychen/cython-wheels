@@ -1,6 +1,6 @@
-[submodule "Cython"]
-	path = Cython
-	url = git://github.com/Cython/Cython.git
+[submodule "beam"]
+	path = beam
+	url = https://github.com/charlesccychen/beam.git
 [submodule "multibuild"]
 	path = multibuild
 	url = https://github.com/matthew-brett/multibuild.git
